@@ -1711,10 +1711,10 @@
   resolved "https://registry.yarnpkg.com/@uniswap/v2-core/-/v2-core-1.0.1.tgz#af8f508bf183204779938969e2e54043e147d425"
   integrity sha512-MtybtkUPSyysqLY2U210NBDeCHX+ltHt3oADGdjqoThZaFRDKwM6k1Nb3F0A3hk5hwuQvytFWhrWHOEq6nVJ8Q==
 
-"@yumyumswap/sdk-core@^3.2.2":
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/@yumyumswap/sdk-core/-/sdk-core-3.2.2.tgz#3c015f9fa3e7cf5185d758a25dcda75021b6edaa"
-  integrity sha512-cMlhOVEDzJG8isf7DjWmP19z+Lek1s+notDXdN7uQ9miI9F8kFS8qoHDIkquAZip8FbmhllydCDYFYnPNTD1ag==
+"@yumyumswap/sdk-core@^5.0.2":
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/@yumyumswap/sdk-core/-/sdk-core-5.0.2.tgz#29b18faba969fe84cbc155afaa44cc66a363af53"
+  integrity sha512-19ccJMtZGzcknWDEwDfL+vZcUinhORnIF80FgtSD1v19xS0o6m/rQFzosW3I5fZE6wxb+1jXtc46yKLA56Yocw==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
